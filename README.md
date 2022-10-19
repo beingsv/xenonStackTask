@@ -7,7 +7,7 @@
   <li>Backend: PHP</li>
   <li>Database: mySql</li>
 </ul>
-<img src="/src/ss (1).jpg" alt="ss " >
+<img src="/src/step.jpg" alt="ss " >
 <img src="/src/ss (2).jpg" alt="ss " >
 <img src="/src/ss (3).jpg" alt="ss " >
 <img src="/src/ss (4).jpg" alt="ss " >
