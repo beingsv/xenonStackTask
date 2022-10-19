@@ -7,9 +7,12 @@
   <li>Backend: PHP</li>
   <li>Database: mySql</li>
 </ul>
-<img src="/src/step.jpg" alt="ss " >
-<img src="/src/ss (2).jpg" alt="ss " >
-<img src="/src/ss (3).jpg" alt="ss " >
-<img src="/src/ss (4).jpg" alt="ss " >
-<img src="/src/ss (5).jpg" alt="ss " >
-<img src="/src/ss (6).jpg" alt="ss " >
+<img src="/src/step1.png" alt="ss " >
+<img src="/src/step2.png" alt="ss " >
+<img src="/src/step3.png" alt="ss " >
+<img src="/src/step4.png" alt="ss " >
+<img src="/src/step5.png" alt="ss " >
+<img src="/src/step6.png" alt="ss " >
+<img src="/src/step7.png" alt="ss " >
+<img src="/src/step8.png" alt="ss " >
+<img src="/src/step9.png" alt="ss " >
