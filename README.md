@@ -8,7 +8,7 @@
   <li>Database: mySql</li>
 </ul>
 
-# Steps
+# Steps/Screenshots
   * Step 1
 <img src="/src/step1.png" alt="ss " >
   * Step 2
