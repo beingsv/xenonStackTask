@@ -7,6 +7,7 @@
   <li>Backend: PHP</li>
   <li>Database: mySql</li>
 </ul>
+*Step 1
 <img src="/src/step1.png" alt="ss " >
 <img src="/src/step2.png" alt="ss " >
 <img src="/src/step3.png" alt="ss " >
