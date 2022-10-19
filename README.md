@@ -24,7 +24,5 @@
   * Step 7
 <img src="/src/step7.png" alt="ss " >
   * Step 8
-<img src="/src/step8.png" alt="ss " >
-  * Step 9
 <img src="/src/step9.png" alt="ss " >
 
